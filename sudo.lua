@@ -5,7 +5,7 @@ local passwordAsked = false
 local versionFileID = "EzYxKhqP"
 local scriptPastebinID = "dR7yyeb5"
 local versionFile = "version.txt"
-local version = "2.3"
+local version = "2.2EPM"
  -- User Authentication
 local function askForPassword()
     while true do
