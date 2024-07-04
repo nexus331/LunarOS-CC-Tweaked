@@ -127,7 +127,7 @@ local function main()
                 return
             end
         end
-        print("user@user:~$")
+        print("user@@user:~$")
         local command = read()
         if command == "sudo apt upd" then
             update()
