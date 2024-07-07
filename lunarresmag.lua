@@ -1,8 +1,4 @@
--- Lunar Resource Manager Program
-print("Lunar Resource Manager 1.0")
-print("Please enter pin to start operation...")
 -- User Authentication
-
 local correctPassword = "0850"
 local passwordAsked = false
 local function askForPassword()
@@ -16,3 +12,6 @@ local function askForPassword()
         end
     end
 end
+-- Lunar Resource Manager Program
+print("Lunar Resource Manager 1.0")
+print("Please enter pin to start operation...")
